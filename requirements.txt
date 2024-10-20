@@ -1,7 +1,7 @@
 mediapipe
 opencv-python
 tensorflow
-
+tensorflow-gpu
 scikit-learn
 matplotlib
 jupyter
